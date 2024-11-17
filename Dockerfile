@@ -8,4 +8,4 @@ WORKDIR /app
 COPY . /app
 
 # Define the default command to run the app
-CMD ["python", "hello.py"]
+CMD ["python3", "hello.py"]
